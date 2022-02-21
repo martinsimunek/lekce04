@@ -13,3 +13,5 @@ Teď už bude opravdu kolize. Také přidám řádek - to způsobí kolizi.
 - rychlý
 - jednoduchý
 - dá se psát na klávesnici ručně
+
+Přidávám první řádek v nové větvi (branch).
