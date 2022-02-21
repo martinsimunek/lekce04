@@ -7,7 +7,7 @@ Okomentujeme také Markdown
 
 Toto píši na lokálním počítači v místní kopii repozitáře.
 
-Teď už bude opravdu kolize.
+Teď už bude opravdu kolize. Také přidám řádek - to způsobí kolizi.
 
 ## Markdown
 - rychlý
